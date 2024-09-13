@@ -1,0 +1,43 @@
+h1
+{
+    color: white;
+    display: inline;
+    text-align: justify;
+    font-size: small;
+}
+
+h2
+{
+    color: black;
+    display: inline;
+    text-align: justify;
+}
+
+a:link, a:visited {
+    background-color: #800000;
+    color: white;
+    padding: 20px 25px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+iframe
+{
+  width: 1000px;
+  height: 500px;
+}
+
+img {
+  max-width: 25%;
+  max-height: 25%;
+  float: left;
+}
+
+.image {
+  float: center;
+}
